@@ -1,5 +1,5 @@
 # Git Practice
 
-Repository for learning Git and GitHub.
+Repository updated remotely on GitHub.
 
 This line was added on GitHub.
