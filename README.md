@@ -7,4 +7,5 @@ Repository for practicing Git locally and on GitHub.
 - Commits
 - Branches
 - Remote repositories
+- Merge conflicts
 - Pull Requests
