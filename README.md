@@ -1,5 +1,3 @@
 # Git Practice
 
-Repository updated remotely on GitHub.
-
-This line was added on GitHub.
+Repository for practicing Git locally and on GitHub.
