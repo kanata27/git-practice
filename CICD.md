@@ -18,3 +18,7 @@ Continuous Delivery prepares verified application changes for deployment.
 4. Build the application
 5. Build a Docker image
 6. Deploy the application
+
+## DevOps Connection
+
+CI/CD connects source code, automated testing, Docker images, and deployment infrastructure.
