@@ -9,3 +9,7 @@ Repository for practicing Git locally and on GitHub.
 - Remote repositories
 - Merge conflicts
 - Pull Requests
+
+## Stash
+
+This section is still being written.
